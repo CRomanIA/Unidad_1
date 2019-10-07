@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Mantenedor</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="btnEliminar">Eliminar</string>
+    <string name="etVenta">Venta</string>
+    <string name="btnCosto">Costo</string>
+    <string name="etStock">Stock</string>
+    <string name="etFecha">Fecha</string>
+    <string name="etUbicacion">Ubicacion</string>
+    <string name="etDescripcion">Descripcion</string>
+    <string name="etCodigo">Codigo</string>
+    <string name="tvProducto">Producto</string>
+    <string name="setErrorEtProductoVacio">Campo requerido</string>
+    <string name="setErrorEtCodigoVacio">Campo requerido</string>
+    <string name="setErrorEtDescripcionVacio">Campo requerido</string>
+    <string name="setErrorEtUbicacionVacio">Campo requerido</string>
+    <string name="setErrorEtFechaCompraVacio">Campo requerido</string>
+    <string name="setErrorStockVacio">Campo requerido</string>
+    <string name="setErrorCostoVacio">Campo requerido</string>
+    <string name="setErrorVentaVacio">Campo requerido</string>
+    <string name="setErrorDescripcionTrim">Error de valicación de espacios</string>
+    <string name="setErrorUbicacionTrim">Error de valicación de espacios</string>
+    <string name="setErrorStockEntero">Error de tipo de dato</string>
+    <string name="setErrorCostoFloat">Error de tipo de dato</string>
+    <string name="setErrorVentaFloat">Error de tipo de dato</string>
+</resources>

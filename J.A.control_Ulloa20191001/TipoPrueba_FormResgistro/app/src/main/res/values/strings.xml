@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Formulario de Registro</string>
+    <string name="stretUsuario">Usuario</string>
+    <string name="stretClave">Clave</string>
+    <string name="stretReingresoClave">Reingrese Clave</string>
+    <string name="stretCorreo">Correo</string>
+    <string name="strbtnRegistrar">Registrar</string>
+    <string name="strtoastValidacion">Usuario registrado</string>
+    <string name="set_Error_Pass">Ingrese Contraseña</string>
+</resources>

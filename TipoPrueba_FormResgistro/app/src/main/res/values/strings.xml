@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Formulario de Registro</string>
+    <string name="stretUsuario">Usuario</string>
+    <string name="stretClave">Clave</string>
+    <string name="stretReingresoClave">Reingrese Clave</string>
+    <string name="stretCorreo">Correo</string>
+    <string name="strbtnRegistrar">Registrar</string>
+    <string name="strtoastValidacion">Usuario registrado</string>
+    <string name="setErrorUsuarioVacio">Campo Obligatorio</string>
+    <string name="setErrorClaveVacio">Campo Obligatorio</string>
+    <string name="setErrorReingresoClaveVacio">Campo Obligatorio</string>
+    <string name="setErrorCorreo">Campo Obligatorio</string>
+    <string name="setErrorReingresoClaveNoMatch">No coincide, intente nuevamente</string>
+    <string name="setErroretClaveMinMax">Entre 6 y 10 caracteres</string>
+    <string name="setErrorValidacionClave">Debe contener una mayuscula, una minuscula y un digito</string>
+    <string name="mensajeToast"> REGISTRADO</string>
+</resources>

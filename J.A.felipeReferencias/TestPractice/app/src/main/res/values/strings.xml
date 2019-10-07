@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PruebaUno</string>
+
+    <string name="hint_user">Usuario</string>
+    <string name="hint_password">Clave</string>
+    <string name="hint_match_password">Reingrese clave</string>
+    <string name="hint_email">Correo</string>
+
+    <string name="btn_registry">Registrar</string>
+
+    <string name="success_validation">registrado</string>
+
+    <string name="blank_text"></string>
+
+    <string name="error_empty_user">Falta ingresar datos de usuario</string>
+    <string name="error_empty_password">Falta ingresar una clave</string>
+    <string name="error_empty_match_password">Falta ingresar nuevamente la clave</string>
+    <string name="error_empty_email">Falta ingresar el correo</string>
+
+    <string name="error_no_valid_user">Datos de usuario inválidos</string>
+    <string name="error_no_valid_password">Ha ingresado una clave inválida</string>
+    <string name="error_no_valid_match_password">Ha ingresado una clave inválida</string>
+    <string name="error_no_valid_email">Ha ingresado un correo inválido</string>
+
+    <string name="error_min_length_password">Clave contiene menos caracteres de los esperados, mínimo 6</string>
+    <string name="error_max_length_password">Clave contiene más caracteres de los esperados, máximo 10</string>
+
+    <string name="error_no_match_password">Las contraseñas no coinciden</string>
+</resources>

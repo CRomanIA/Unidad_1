@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registration Form</string>
+    <string name="stretUsuario">Username</string>
+    <string name="stretClave">Password</string>
+    <string name="stretReingresoClave">Re-enter password</string>
+    <string name="stretCorreo">E-mail</string>
+    <string name="strbtnRegistrar">Check in</string>
+    <string name="strtoastValidacion">Registered user</string>
+    <string name="set_Error_Pass">Enter Password</string>
+</resources>
