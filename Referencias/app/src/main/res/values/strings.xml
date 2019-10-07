@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Referencias</string>
+
+
+    <string name="mensaje_toast">Wena Compadre !!!</string>
+    <string name="mensaje_toast2">Embarao !!!</string>
+    <string name="set_error_nombre">Es Necesario una mayuscula, una minuscula y un número...</string>
+    <string name="aceptar">Ok</string>
+    <string name="salir">Salir</string>
+    <string name="hint_nombre">Ingrese Nombre</string>
+    <string name="titulo">Este es el titulo</string>
+</resources>

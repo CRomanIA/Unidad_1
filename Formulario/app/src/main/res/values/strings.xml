@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Formulario</string>
+
+    //String boton enviar y toast
+    <string name="enviar">Enviar</string>
+    <string name="mensaje_toast">Wena Compadre, no se cae aun esta wea !!!</string>
+
+
+    //String para Contraseña
+    <string name="set_Error_Pass">Contraseña debil</string>
+    <string name="set_Error_Pass2">Ingrese Contraseña</string>
+    <string name="set_Error_Pass3">Min 6, Max8 Caracteres</string>
+</resources>

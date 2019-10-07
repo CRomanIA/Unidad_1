@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">reference</string>
+    <string name="mensaje_toast">Whats up Nigga !!!</string>
+    <string name="mensaje_toast2">Stupid !!!</string>
+    <string name="set_error_nombre">Its Necesarie May, Min and Number...</string>
+    <string name="aceptar">Ok</string>
+    <string name="salir">Exit</string>
+    <string name="hint_nombre">Enter Name</string>
+    <string name="titulo">This is the Tittle</string>
+</resources>
